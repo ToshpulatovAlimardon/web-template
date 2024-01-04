@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ephesis';
+    src: local('Ephesis Regular'), local('Ephesis-Regular'),
+        url('Ephesis-Regular.woff2') format('woff2'),
+        url('Ephesis-Regular.woff') format('woff'),
+        url('Ephesis-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
